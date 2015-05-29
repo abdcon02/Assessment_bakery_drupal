@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/subject"]
+	path = sites/all/modules/subject
+	url = https://github.com/abdcon02/contactformalter_module_drupal.git
