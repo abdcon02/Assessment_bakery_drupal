@@ -21,10 +21,23 @@
 /* @import "theme-A.css"; */
 /* @import "theme-B.css"; */
 
-p {
-    color:red;
+body {
+    font-family: Georgia, sans-serif;
+}
+
+a {
+    text-decoration:none;
+    color: brown;
+}
+a:hover {
+    text-decoration: underline;
 }
 
 #edit-author--2 {
     display: none;
+}
+
+#site-name {
+    font-size: 60px;
+    margin-top: 2em;
 }
